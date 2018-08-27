@@ -1,5 +1,9 @@
 # DeepNeuralNetwork
 this is demo visualise the output of neural network using p5.js
+1. Provding the data sample array with expected results of 1/0.
+2. Generate the neural network and building learning system with learning rate of 0.05.
+3. Generate the random points to let AI NN system to give prediction.
+4. Using react js and chart js to visualise the data results.
 
 ![alt text](https://github.com/MemoryWrong/AI-Deep-Layer-Neural-Network-Using-React.js/blob/master/data.PNG)
 
