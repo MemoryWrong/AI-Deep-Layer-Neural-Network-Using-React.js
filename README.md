@@ -1,5 +1,10 @@
 # DeepNeuralNetwork
-this is demo visualise the output of neural network using p5.js\
+this is demo visualise the output of neural network using p5.js
+
+![alt text](https://github.com/MemoryWrong/AI-Deep-Layer-Neural-Network-Using-React.js/blob/master/data.PNG)
+
+![alt text](https://github.com/MemoryWrong/AI-Deep-Layer-Neural-Network-Using-React.js/blob/master/results.PNG)
+
 
 ## Implementation of Matrix Library
 
