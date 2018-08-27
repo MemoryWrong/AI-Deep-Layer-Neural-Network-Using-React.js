@@ -1,4 +1,4 @@
-# DeepNeuralNetwork
+# Single Layer NeuralNetwork (Linear Regression)
 this is demo visualise the output of neural network using p5.js
 1. Provding the data sample array with expected results of 1/0.
 2. Generate the neural network and building learning system with learning rate of 0.05.
